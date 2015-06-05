@@ -52,8 +52,8 @@ http://sourceforge.net/projects/perlcolibra/files/Perl.Colibra-1.6.0.tar.gz/down
 CONTENT Perl.Colibra 1.6.0 COMPILATION
 ======================================
 
-Clase                       | Version  | Descripción
-----------------------------|----------|----------------------------------------
+Clase                       | Version  | Description
+----------------------------|----------|--------------------------------------
 Colibra::Document           | 1.3 (**) | Document.
 Colibra::Format             | 1.2 (*)  | Data format.
 Colibra::XML                | 1.3 (**) | XML document.
