@@ -77,5 +77,5 @@ Colibra::jQuery::Chart      | 1.0      | jQuery.Colibra Integration: Chart (line
 Colibra::jQuery::Tree       | 1.1 (**) | jQuery.Colibra Integration: Collapsible tree.
 Colibra::jQuery::Tabs       | 1.1 (**) | jQuery.Colibra Integration: Contents tabs.
 
-( *) new class.
+(* ) new class.
 (**) update class.
