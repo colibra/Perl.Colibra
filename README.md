@@ -76,6 +76,6 @@ Colibra::jQuery::Selectbox  | 1.1 (**) | jQuery.Colibra Integration: Options sel
 Colibra::jQuery::Chart      | 1.0      | jQuery.Colibra Integration: Chart (lines, bars, pie or ring).
 Colibra::jQuery::Tree       | 1.1 (**) | jQuery.Colibra Integration: Collapsible tree.
 Colibra::jQuery::Tabs       | 1.1 (**) | jQuery.Colibra Integration: Contents tabs.
-----------------------------|----------|----------------------------------------
+
 (*) new class.
 (**) update class.
