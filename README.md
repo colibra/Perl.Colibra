@@ -52,7 +52,7 @@ http://sourceforge.net/projects/perlcolibra/files/Perl.Colibra-1.6.0.tar.gz/down
 CONTENT Perl.Colibra 1.6.0 COMPILATION
 ======================================
 
-Clase                       | Versión  | Descripción
+Clase                       | Version  | Descripción
 ----------------------------|----------|----------------------------------------
 Colibra::Document           | 1.3 (**) | Document.
 Colibra::Format             | 1.2 (*)  | Data format.
@@ -77,5 +77,5 @@ Colibra::jQuery::Chart      | 1.0      | jQuery.Colibra Integration: Chart (line
 Colibra::jQuery::Tree       | 1.1 (**) | jQuery.Colibra Integration: Collapsible tree.
 Colibra::jQuery::Tabs       | 1.1 (**) | jQuery.Colibra Integration: Contents tabs.
 
-(*) new class.
+( * ) new class.
 (**) update class.
